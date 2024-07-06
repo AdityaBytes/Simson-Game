@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+h3, h2 {
+    margin: 20px 0;
+}
+
+.btn-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.line {
+    display: flex;
+    justify-content: center;
+    margin: 10px 0;
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    border-radius: 20%;
+    border: 5px solid black;
+    cursor: pointer;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.flash {
+    background-color: white;
+}
